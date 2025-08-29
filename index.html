@@ -1,0 +1,42 @@
+<!-- static/index.html -->
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <title>Smart Librarian</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root { --bg1:#f8e7f7; --bg2:#e3e9f7; --bg3:#d0f1fa; }
+    body {
+      margin:0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: linear-gradient(120deg, var(--bg1), var(--bg2) 60%, var(--bg3) 100%);
+    }
+    .hero {
+      max-width: 960px; margin: 8vh auto; padding: 3rem;
+      background: rgba(255,255,255,0.8); border: 2px solid #fff3;
+      border-radius: 28px; backdrop-filter: blur(12px);
+      box-shadow: 0 16px 56px rgba(179,157,219,0.22);
+      text-align:center;
+    }
+    h1 { font-size: 3rem; margin: 0 0 .3rem 0; }
+    p { font-size: 1.1rem; color: #3a2c4b; }
+    .cta {
+      display:inline-block; margin-top: 1.2rem; padding: .9rem 1.6rem;
+      border-radius: 12px; font-weight: 800; text-decoration: none; color: #3a2c4b;
+      border: 2px solid #f8bbd0;
+      background: linear-gradient(90deg, #f8bbd0 0%, #b39ddb 100%);
+      box-shadow: 0 8px 24px rgba(179,157,219,0.25);
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>📚 Smart Librarian</h1>
+    <p>Recomandări de carte cu AI, interfață pastel și căutare inteligentă.</p>
+    <a class="cta" href="http://localhost:8501" target="_blank" rel="noopener">Deschide aplicația</a>
+  </div>
+</body>
+</html>
+<!-- ui/index.html -->

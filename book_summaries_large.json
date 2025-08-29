@@ -1,0 +1,2243 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Distopie",
+    "year": 1949,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/1984"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Distopie",
+    "year": 1932,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Brave_New_World"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Distopie",
+    "year": 1953,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Fahrenheit_451"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Distopie",
+    "year": 1985,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Handmaid's_Tale"
+  },
+  {
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "genre": "Distopie",
+    "year": 2019,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Testaments"
+  },
+  {
+    "title": "We",
+    "author": "Yevgeny Zamyatin",
+    "genre": "Distopie",
+    "year": 1924,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/We"
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "genre": "Distopie",
+    "year": 2005,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Never_Let_Me_Go"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Distopie",
+    "year": 2006,
+    "summary": "Roman distopic despre controlul societății, supraveghere și libertatea individuală.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Road"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1965,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dune"
+  },
+  {
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1969,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dune_Messiah"
+  },
+  {
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1976,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Children_of_Dune"
+  },
+  {
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1981,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/God_Emperor_of_Dune"
+  },
+  {
+    "title": "Heretics of Dune",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1984,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Heretics_of_Dune"
+  },
+  {
+    "title": "Chapterhouse: Dune",
+    "author": "Frank Herbert",
+    "genre": "SF",
+    "year": 1985,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „Dune”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Chapterhouse:_Dune"
+  },
+  {
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "genre": "SF",
+    "year": 1984,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Neuromancer"
+  },
+  {
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genre": "SF",
+    "year": 1992,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Snow_Crash"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "SF",
+    "year": 1969,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "SF",
+    "year": 1951,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Foundation"
+  },
+  {
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "genre": "SF",
+    "year": 1950,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/I,_Robot"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "genre": "SF",
+    "year": 1968,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep?"
+  },
+  {
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "genre": "SF",
+    "year": 1969,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Ubik"
+  },
+  {
+    "title": "Solaris",
+    "author": "Stanislaw Lem",
+    "genre": "SF",
+    "year": 1961,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Solaris"
+  },
+  {
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "genre": "SF",
+    "year": 1989,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Hyperion"
+  },
+  {
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "genre": "SF",
+    "year": 1990,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Fall_of_Hyperion"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "SF",
+    "year": 1985,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Ender's_Game"
+  },
+  {
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "genre": "SF",
+    "year": 1986,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Speaker_for_the_Dead"
+  },
+  {
+    "title": "Xenocide",
+    "author": "Orson Scott Card",
+    "genre": "SF",
+    "year": 1991,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Xenocide"
+  },
+  {
+    "title": "Children of the Mind",
+    "author": "Orson Scott Card",
+    "genre": "SF",
+    "year": 1996,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Children_of_the_Mind"
+  },
+  {
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "genre": "SF",
+    "year": 1974,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Forever_War"
+  },
+  {
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "genre": "SF",
+    "year": 1985,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Contact"
+  },
+  {
+    "title": "Gateway",
+    "author": "Frederik Pohl",
+    "genre": "SF",
+    "year": 1977,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Gateway"
+  },
+  {
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "genre": "SF",
+    "year": 1970,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Ringworld"
+  },
+  {
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "genre": "SF",
+    "year": 2005,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Old_Man's_War"
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "SF",
+    "year": 2021,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Project_Hail_Mary"
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "genre": "SF",
+    "year": 2017,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Artemis"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "SF",
+    "year": 2011,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Martian"
+  },
+  {
+    "title": "Leviathan Wakes",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2011,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Leviathan_Wakes"
+  },
+  {
+    "title": "Caliban's War",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2012,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Caliban's_War"
+  },
+  {
+    "title": "Abaddon's Gate",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2013,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Abaddon's_Gate"
+  },
+  {
+    "title": "Cibola Burn",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2014,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Cibola_Burn"
+  },
+  {
+    "title": "Nemesis Games",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2015,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Nemesis_Games"
+  },
+  {
+    "title": "Babylon's Ashes",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2016,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Babylon's_Ashes"
+  },
+  {
+    "title": "Persepolis Rising",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2017,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Persepolis_Rising"
+  },
+  {
+    "title": "Tiamat's Wrath",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2019,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Tiamat's_Wrath"
+  },
+  {
+    "title": "Leviathan Falls",
+    "author": "James S. A. Corey",
+    "genre": "SF",
+    "year": 2021,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Volum din seria „The Expanse”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Leviathan_Falls"
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "genre": "SF",
+    "year": 2008,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Trilogia SF chineză despre contactul cu o civilizație extraterestră.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Three-Body_Problem"
+  },
+  {
+    "title": "The Dark Forest",
+    "author": "Liu Cixin",
+    "genre": "SF",
+    "year": 2008,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Trilogia SF chineză despre contactul cu o civilizație extraterestră.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Dark_Forest"
+  },
+  {
+    "title": "Death's End",
+    "author": "Liu Cixin",
+    "genre": "SF",
+    "year": 2010,
+    "summary": "Science‑fiction care explorează știința, tehnologia și impactul lor asupra umanității. Trilogia SF chineză despre contactul cu o civilizație extraterestră.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Death's_End"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantezie",
+    "year": 1937,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Hobbit"
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantezie",
+    "year": 1977,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Silmarillion"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantezie",
+    "year": 1954,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Lord of the Rings”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring"
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantezie",
+    "year": 1954,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Lord of the Rings”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Two_Towers"
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantezie",
+    "year": 1955,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Lord of the Rings”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Return_of_the_King"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "genre": "Fantezie",
+    "year": 1996,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „A Song of Ice and Fire”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Game_of_Thrones"
+  },
+  {
+    "title": "A Clash of Kings",
+    "author": "George R. R. Martin",
+    "genre": "Fantezie",
+    "year": 1998,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „A Song of Ice and Fire”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Clash_of_Kings"
+  },
+  {
+    "title": "A Storm of Swords",
+    "author": "George R. R. Martin",
+    "genre": "Fantezie",
+    "year": 2000,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „A Song of Ice and Fire”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Storm_of_Swords"
+  },
+  {
+    "title": "A Feast for Crows",
+    "author": "George R. R. Martin",
+    "genre": "Fantezie",
+    "year": 2005,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „A Song of Ice and Fire”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Feast_for_Crows"
+  },
+  {
+    "title": "A Dance with Dragons",
+    "author": "George R. R. Martin",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „A Song of Ice and Fire”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Dance_with_Dragons"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 1997,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher's_Stone"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 1998,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 1999,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 2000,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 2003,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 2005,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genre": "Fantezie",
+    "year": 2007,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „Harry Potter”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2006,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogia inițială din universul Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Mistborn:_The_Final_Empire"
+  },
+  {
+    "title": "The Well of Ascension",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2007,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogia inițială din universul Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Well_of_Ascension"
+  },
+  {
+    "title": "The Hero of Ages",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2008,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogia inițială din universul Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Hero_of_Ages"
+  },
+  {
+    "title": "The Alloy of Law",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Continuarea în stil western‑steampunk în Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Alloy_of_Law"
+  },
+  {
+    "title": "Shadows of Self",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2015,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Continuarea în stil western‑steampunk în Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Shadows_of_Self"
+  },
+  {
+    "title": "The Bands of Mourning",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2016,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Continuarea în stil western‑steampunk în Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Bands_of_Mourning"
+  },
+  {
+    "title": "The Lost Metal",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2022,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Continuarea în stil western‑steampunk în Cosmere.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Lost_Metal"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2010,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Stormlight Archive”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Way_of_Kings"
+  },
+  {
+    "title": "Words of Radiance",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2014,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Stormlight Archive”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Words_of_Radiance"
+  },
+  {
+    "title": "Oathbringer",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2017,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Stormlight Archive”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Oathbringer"
+  },
+  {
+    "title": "Rhythm of War",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2020,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Stormlight Archive”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Rhythm_of_War"
+  },
+  {
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2005,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Elantris"
+  },
+  {
+    "title": "Warbreaker",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2009,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Warbreaker"
+  },
+  {
+    "title": "Edgedancer",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2016,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Edgedancer"
+  },
+  {
+    "title": "Dawnshard",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2020,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dawnshard"
+  },
+  {
+    "title": "The Last Wish",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1993,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Last_Wish"
+  },
+  {
+    "title": "Sword of Destiny",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1992,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Sword_of_Destiny"
+  },
+  {
+    "title": "Blood of Elves",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1994,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Blood_of_Elves"
+  },
+  {
+    "title": "Time of Contempt",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1995,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Time_of_Contempt"
+  },
+  {
+    "title": "Baptism of Fire",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1996,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Baptism_of_Fire"
+  },
+  {
+    "title": "The Tower of the Swallow",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1997,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Tower_of_the_Swallow"
+  },
+  {
+    "title": "The Lady of the Lake",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 1999,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Lady_of_the_Lake"
+  },
+  {
+    "title": "Season of Storms",
+    "author": "Andrzej Sapkowski",
+    "genre": "Fantezie",
+    "year": 2013,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Saga lui Geralt din Rivia, vânătorul de monștri.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Season_of_Storms"
+  },
+  {
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2006,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogie dark‑fantasy plină de cinism și umor negru.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Blade_Itself"
+  },
+  {
+    "title": "Before They Are Hanged",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2007,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogie dark‑fantasy plină de cinism și umor negru.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Before_They_Are_Hanged"
+  },
+  {
+    "title": "Last Argument of Kings",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2008,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Trilogie dark‑fantasy plină de cinism și umor negru.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Last_Argument_of_Kings"
+  },
+  {
+    "title": "Best Served Cold",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2009,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Best_Served_Cold"
+  },
+  {
+    "title": "The Heroes",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Heroes"
+  },
+  {
+    "title": "Red Country",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2012,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Red_Country"
+  },
+  {
+    "title": "A Little Hatred",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2019,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Little_Hatred"
+  },
+  {
+    "title": "The Trouble with Peace",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2020,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Trouble_with_Peace"
+  },
+  {
+    "title": "The Wisdom of Crowds",
+    "author": "Joe Abercrombie",
+    "genre": "Fantezie",
+    "year": 2021,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "genre": "Fantezie",
+    "year": 2006,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Heist‑fantasy cu hoți gentili și intrigi elaborate.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Lies_of_Locke_Lamora"
+  },
+  {
+    "title": "Red Seas Under Red Skies",
+    "author": "Scott Lynch",
+    "genre": "Fantezie",
+    "year": 2007,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Heist‑fantasy cu hoți gentili și intrigi elaborate.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Red_Seas_Under_Red_Skies"
+  },
+  {
+    "title": "The Republic of Thieves",
+    "author": "Scott Lynch",
+    "genre": "Fantezie",
+    "year": 2013,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Heist‑fantasy cu hoți gentili și intrigi elaborate.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Republic_of_Thieves"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantezie",
+    "year": 2007,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Povestea lui Kvothe spusă în trei zile.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Name_of_the_Wind"
+  },
+  {
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Povestea lui Kvothe spusă în trei zile.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Wise_Man's_Fear"
+  },
+  {
+    "title": "The Slow Regard of Silent Things",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantezie",
+    "year": 2014,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Povestea lui Kvothe spusă în trei zile.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Slow_Regard_of_Silent_Things"
+  },
+  {
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genre": "Fantezie",
+    "year": 2001,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/American_Gods"
+  },
+  {
+    "title": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "genre": "Fantezie",
+    "year": 1990,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Good_Omens"
+  },
+  {
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "genre": "Fantezie",
+    "year": 1996,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Neverwhere"
+  },
+  {
+    "title": "Anansi Boys",
+    "author": "Neil Gaiman",
+    "genre": "Fantezie",
+    "year": 2005,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Anansi_Boys"
+  },
+  {
+    "title": "The Graveyard Book",
+    "author": "Neil Gaiman",
+    "genre": "Fantezie",
+    "year": 2008,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Graveyard_Book"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Night_Circus"
+  },
+  {
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "genre": "Fantezie",
+    "year": 2019,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Priory_of_the_Orange_Tree"
+  },
+  {
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "genre": "Fantezie",
+    "year": 2015,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Uprooted"
+  },
+  {
+    "title": "Spinning Silver",
+    "author": "Naomi Novik",
+    "genre": "Fantezie",
+    "year": 2018,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Spinning_Silver"
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Fantezie",
+    "year": 2018,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Circe"
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "genre": "Fantezie",
+    "year": 2011,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Song_of_Achilles"
+  },
+  {
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1990,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Eye_of_the_World"
+  },
+  {
+    "title": "The Great Hunt",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1990,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Great_Hunt"
+  },
+  {
+    "title": "The Dragon Reborn",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1991,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Dragon_Reborn"
+  },
+  {
+    "title": "The Shadow Rising",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1992,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Shadow_Rising"
+  },
+  {
+    "title": "The Fires of Heaven",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1993,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Fires_of_Heaven"
+  },
+  {
+    "title": "Lord of Chaos",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1994,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Lord_of_Chaos"
+  },
+  {
+    "title": "A Crown of Swords",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1996,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Crown_of_Swords"
+  },
+  {
+    "title": "The Path of Daggers",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 1998,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Path_of_Daggers"
+  },
+  {
+    "title": "Winter's Heart",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 2000,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Winter's_Heart"
+  },
+  {
+    "title": "Crossroads of Twilight",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 2003,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Crossroads_of_Twilight"
+  },
+  {
+    "title": "Knife of Dreams",
+    "author": "Robert Jordan",
+    "genre": "Fantezie",
+    "year": 2005,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Volum din seria „The Wheel of Time”.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Knife_of_Dreams"
+  },
+  {
+    "title": "The Gathering Storm",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2009,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Finalizarea epopeii începute de Robert Jordan.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Gathering_Storm"
+  },
+  {
+    "title": "Towers of Midnight",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2010,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Finalizarea epopeii începute de Robert Jordan.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Towers_of_Midnight"
+  },
+  {
+    "title": "A Memory of Light",
+    "author": "Brandon Sanderson",
+    "genre": "Fantezie",
+    "year": 2013,
+    "summary": "Aventură fantasy într-o lume bogată, cu magie, eroi și confruntări epice. Finalizarea epopeii începute de Robert Jordan.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Memory_of_Light"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Thriller",
+    "year": 2005,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Girl_with_the_Dragon_Tattoo"
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "genre": "Thriller",
+    "year": 2006,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Girl_Who_Played_with_Fire"
+  },
+  {
+    "title": "The Girl Who Kicked the Hornets' Nest",
+    "author": "Stieg Larsson",
+    "genre": "Thriller",
+    "year": 2007,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Girl_Who_Kicked_the_Hornets'_Nest"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "year": 2012,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Gone_Girl"
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "year": 2006,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Sharp_Objects"
+  },
+  {
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "year": 2009,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dark_Places"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2003,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Da_Vinci_Code"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2000,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Angels_&_Demons"
+  },
+  {
+    "title": "Origin",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2017,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Origin"
+  },
+  {
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 2001,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Deception_Point"
+  },
+  {
+    "title": "Digital Fortress",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "year": 1998,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Digital_Fortress"
+  },
+  {
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "genre": "Mister",
+    "year": 1980,
+    "summary": "Roman de mister cu investigații și indicii atent dozuite.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Name_of_the_Rose"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "genre": "Thriller",
+    "year": 1988,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs"
+  },
+  {
+    "title": "Red Dragon",
+    "author": "Thomas Harris",
+    "genre": "Thriller",
+    "year": 1981,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Red_Dragon"
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "genre": "Thriller",
+    "year": 1984,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Hunt_for_Red_October"
+  },
+  {
+    "title": "The Firm",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "year": 1991,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Firm"
+  },
+  {
+    "title": "A Time to Kill",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "year": 1989,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Time_to_Kill"
+  },
+  {
+    "title": "The Pelican Brief",
+    "author": "John Grisham",
+    "genre": "Thriller",
+    "year": 1992,
+    "summary": "Thriller plin de tensiune, mister și răsturnări de situație.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Pelican_Brief"
+  },
+  {
+    "title": "House of Leaves",
+    "author": "Mark Z. Danielewski",
+    "genre": "Horror",
+    "year": 2000,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/House_of_Leaves"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1986,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/It"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1977,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Shining"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1987,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Misery"
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1983,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Pet_Sematary"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1978,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Stand"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 1974,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Carrie"
+  },
+  {
+    "title": "Doctor Sleep",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "year": 2013,
+    "summary": "Horror atmosferic despre frică, obsesii și necunoscut.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Doctor_Sleep"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Clasic",
+    "year": 1925,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Clasic",
+    "year": 1851,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Moby-Dick"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Clasic",
+    "year": 1869,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/War_and_Peace"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Clasic",
+    "year": 1866,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Clasic",
+    "year": 1880,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Clasic",
+    "year": 1877,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Anna_Karenina"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "Clasic",
+    "year": 1856,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Madame_Bovary"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Clasic",
+    "year": 1847,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Wuthering_Heights"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Clasic",
+    "year": 1847,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Jane_Eyre"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Clasic",
+    "year": 1861,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Great_Expectations"
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Clasic",
+    "year": 1838,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Oliver_Twist"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Clasic",
+    "year": 1859,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Clasic",
+    "year": 1862,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Les_Misérables"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Clasic",
+    "year": 1844,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Clasic",
+    "year": 1605,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Don_Quixote"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger",
+    "genre": "Clasic",
+    "year": 1951,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Clasic",
+    "year": 1890,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Clasic",
+    "year": 1897,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dracula"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Clasic",
+    "year": 1818,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Frankenstein"
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "genre": "Clasic",
+    "year": 1942,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Stranger"
+  },
+  {
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "genre": "Clasic",
+    "year": 1925,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Trial"
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "genre": "Clasic",
+    "year": 1915,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Metamorphosis"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Clasic",
+    "year": 1952,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "genre": "Clasic",
+    "year": 1940,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": "Clasic",
+    "year": 1937,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Of_Mice_and_Men"
+  },
+  {
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "genre": "Clasic",
+    "year": 1952,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/East_of_Eden"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Clasic",
+    "year": 1939,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Grapes_of_Wrath"
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "genre": "Clasic",
+    "year": 1955,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Lolita"
+  },
+  {
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "genre": "Clasic",
+    "year": 1922,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Ulysses"
+  },
+  {
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "genre": "Clasic",
+    "year": 1914,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Dubliners"
+  },
+  {
+    "title": "Mrs Dalloway",
+    "author": "Virginia Woolf",
+    "genre": "Clasic",
+    "year": 1925,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Mrs_Dalloway"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Clasic",
+    "year": 1927,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/To_the_Lighthouse"
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "genre": "Clasic",
+    "year": 1929,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury"
+  },
+  {
+    "title": "On the Road",
+    "author": "Jack Kerouac",
+    "genre": "Clasic",
+    "year": 1957,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/On_the_Road"
+  },
+  {
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "genre": "Clasic",
+    "year": 1963,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Bell_Jar"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Clasic",
+    "year": 1987,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Beloved"
+  },
+  {
+    "title": "Song of Solomon",
+    "author": "Toni Morrison",
+    "genre": "Clasic",
+    "year": 1977,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Song_of_Solomon"
+  },
+  {
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "genre": "Clasic",
+    "year": 1952,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Invisible_Man"
+  },
+  {
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "genre": "Clasic",
+    "year": 1937,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God"
+  },
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "genre": "Clasic",
+    "year": 1958,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "genre": "Clasic",
+    "year": 1982,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Color_Purple"
+  },
+  {
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "genre": "Clasic",
+    "year": 1970,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Bluest_Eye"
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "genre": "Clasic",
+    "year": 1997,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_God_of_Small_Things"
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "genre": "Clasic",
+    "year": 1981,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Midnight's_Children"
+  },
+  {
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "genre": "Clasic",
+    "year": 2008,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_White_Tiger"
+  },
+  {
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 1987,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Norwegian_Wood"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 2002,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Kafka_on_the_Shore"
+  },
+  {
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 2009,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/1Q84"
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 1994,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle"
+  },
+  {
+    "title": "A Wild Sheep Chase",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 1982,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Wild_Sheep_Chase"
+  },
+  {
+    "title": "Hard-Boiled Wonderland and the End of the World",
+    "author": "Haruki Murakami",
+    "genre": "Clasic",
+    "year": 1985,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Hard-Boiled_Wonderland_and_the_End_of_the_World"
+  },
+  {
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "genre": "Clasic",
+    "year": 2015,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/A_Little_Life"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Clasic",
+    "year": 2018,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Normal_People"
+  },
+  {
+    "title": "Conversations with Friends",
+    "author": "Sally Rooney",
+    "genre": "Clasic",
+    "year": 2017,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Conversations_with_Friends"
+  },
+  {
+    "title": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "genre": "Clasic",
+    "year": 2006,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun"
+  },
+  {
+    "title": "Purple Hibiscus",
+    "author": "Chimamanda Ngozi Adichie",
+    "genre": "Clasic",
+    "year": 2003,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Purple_Hibiscus"
+  },
+  {
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "genre": "Clasic",
+    "year": 2013,
+    "summary": "Clasic al literaturii, apreciat pentru temele universale și stilul distinct.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Americanah"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "Nonficțiune",
+    "year": 2011,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind"
+  },
+  {
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "genre": "Nonficțiune",
+    "year": 2015,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow"
+  },
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "genre": "Nonficțiune",
+    "year": 2018,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/21_Lessons_for_the_21st_Century"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Psihologie",
+    "year": 2018,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Atomic_Habits"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Business",
+    "year": 2016,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Deep_Work"
+  },
+  {
+    "title": "Digital Minimalism",
+    "author": "Cal Newport",
+    "genre": "Business",
+    "year": 2019,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Digital_Minimalism"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psihologie",
+    "year": 2011,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+  },
+  {
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "genre": "Psihologie",
+    "year": 2016,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Grit"
+  },
+  {
+    "title": "Drive",
+    "author": "Daniel H. Pink",
+    "genre": "Psihologie",
+    "year": 2009,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Drive"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "genre": "Psihologie",
+    "year": 2008,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Outliers"
+  },
+  {
+    "title": "The Tipping Point",
+    "author": "Malcolm Gladwell",
+    "genre": "Psihologie",
+    "year": 2000,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Tipping_Point"
+  },
+  {
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "genre": "Psihologie",
+    "year": 2005,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Blink"
+  },
+  {
+    "title": "The Black Swan",
+    "author": "Nassim Nicholas Taleb",
+    "genre": "Business",
+    "year": 2007,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Black_Swan"
+  },
+  {
+    "title": "Antifragile",
+    "author": "Nassim Nicholas Taleb",
+    "genre": "Business",
+    "year": 2012,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Antifragile"
+  },
+  {
+    "title": "Fooled by Randomness",
+    "author": "Nassim Nicholas Taleb",
+    "genre": "Business",
+    "year": 2001,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Fooled_by_Randomness"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "genre": "Business",
+    "year": 2014,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Zero_to_One"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "year": 2011,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Lean_Startup"
+  },
+  {
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "genre": "Business",
+    "year": 2014,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Hooked"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "genre": "Business",
+    "year": 1997,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Innovator's_Dilemma"
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "genre": "Business",
+    "year": 2014,
+    "summary": "Carte de business cu idei practice despre startup‑uri, leadership și strategie.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Hard_Thing_About_Hard_Things"
+  },
+  {
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "genre": "Nonficțiune",
+    "year": 2018,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Bad_Blood"
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "genre": "Memorii",
+    "year": 2016,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Shoe_Dog"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Psihologie",
+    "year": 2016,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Subtle_Art_of_Not_Giving_a_F*ck"
+  },
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "genre": "Psihologie",
+    "year": 2018,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/12_Rules_for_Life"
+  },
+  {
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "genre": "Memorii",
+    "year": 2018,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Can't_Hurt_Me"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Memorii",
+    "year": 2018,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Educated"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Memorii",
+    "year": 2018,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Becoming"
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "genre": "Memorii",
+    "year": 2016,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Born_a_Crime"
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "genre": "Memorii",
+    "year": 2016,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/When_Breath_Becomes_Air"
+  },
+  {
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "genre": "Nonficțiune",
+    "year": 2010,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Immortal_Life_of_Henrietta_Lacks"
+  },
+  {
+    "title": "Into the Wild",
+    "author": "Jon Krakauer",
+    "genre": "Nonficțiune",
+    "year": 1996,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Into_the_Wild"
+  },
+  {
+    "title": "Into Thin Air",
+    "author": "Jon Krakauer",
+    "genre": "Nonficțiune",
+    "year": 1997,
+    "summary": "Carte de nonficțiune care prezintă idei și povești reale cu impact.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Into_Thin_Air"
+  },
+  {
+    "title": "The Devil in the White City",
+    "author": "Erik Larson",
+    "genre": "Istorie",
+    "year": 2003,
+    "summary": "Carte de istorie ce explorează epoci, evenimente și figuri marcante.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Devil_in_the_White_City"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "genre": "Istorie",
+    "year": 2015,
+    "summary": "Carte de istorie ce explorează epoci, evenimente și figuri marcante.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Wright_Brothers"
+  },
+  {
+    "title": "Unbroken",
+    "author": "Laura Hillenbrand",
+    "genre": "Istorie",
+    "year": 2010,
+    "summary": "Carte de istorie ce explorează epoci, evenimente și figuri marcante.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Unbroken"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Psihologie",
+    "year": 2012,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_Power_of_Habit"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "genre": "Psihologie",
+    "year": 1989,
+    "summary": "Carte de psihologie aplicată, cu cercetări și concepte utile în viața de zi cu zi.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "genre": "Memorii",
+    "year": 1946,
+    "summary": "Memorii puternice despre experiențe personale și transformare.",
+    "cover_url": "",
+    "external_link": "https://en.wikipedia.org/wiki/Man's_Search_for_Meaning"
+  }
+]
